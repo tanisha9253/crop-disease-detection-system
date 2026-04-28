@@ -1,0 +1,11 @@
+com\cropdetection\controller\PredictionController.class
+com\cropdetection\config\CorsConfig.class
+com\cropdetection\controller\dto\PredictionRequest.class
+com\cropdetection\util\ImageUploadUtil.class
+com\cropdetection\util\PythonAIClient.class
+com\cropdetection\service\PredictionService.class
+com\cropdetection\repository\PredictionRepository.class
+com\cropdetection\controller\dto\PredictionResponse.class
+com\cropdetection\CropDiseaseDetectionApplication.class
+com\cropdetection\entity\Prediction.class
+com\cropdetection\controller\PredictionController$1.class

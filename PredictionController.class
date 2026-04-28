@@ -1,0 +1,9 @@
+2026-04-08T08:27:32.863Z [INFO] ----------------------invoke appmod-list-mavens----------------------
+2026-04-08T08:27:32.863Z [INFO] [Tool.invoke]({name: appmod-list-mavens, input: {
+  "projectPath": "c:\\Users\\simar\\Desktop\\Crop disease detection"
+}}).
+2026-04-08T08:27:32.864Z [INFO] [Tool.invoke] do invoke.
+2026-04-08T08:27:32.935Z [INFO] [Tool.invoke]({result: {
+  "message": "We found following maven installations in your system:\n\n1. 📁 Path: C:\\Users\\simar\\.maven\\maven-3.9.14\\bin\n   🏷️ Source: install\n\nTotal: 1 Maven installation(s) found"
+}}).
+2026-04-08T08:27:32.935Z [INFO] ----------------------invoked appmod-list-mavens----------------------
